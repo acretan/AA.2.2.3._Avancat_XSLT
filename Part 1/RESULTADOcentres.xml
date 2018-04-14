@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Centros_Educativos>
+    <Publicos>
+        <Centro>
+            <ID>3632</ID>
+            <Nombre>Escola Joaquim Ruyra</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17000469.00</codi_centre>
+            <Telefono>972 350 425</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3633</ID>
+            <Nombre>Escola Carles Faust</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17000470.00</codi_centre>
+            <Telefono>972 336 766</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3636</ID>
+            <Nombre>Escola Mossèn Joan Batlle</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17000548.00</codi_centre>
+            <Telefono>972 331 087</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3637</ID>
+            <Nombre>Institut Sa Palomera</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17000551.00</codi_centre>
+            <Telefono>972 350 909</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3844</ID>
+            <Nombre>Escola Napoleó Soliva</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17004566.00</codi_centre>
+            <Telefono>972 333 568</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3850</ID>
+            <Nombre>CEE Ventijol</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17004712.00</codi_centre>
+            <Telefono>972 330 701</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3868</ID>
+            <Nombre>Escola Quatre Vents</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17005017.00</codi_centre>
+            <Telefono>972 330 241</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3901</ID>
+            <Nombre>Institut Serrallarga</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17005662.00</codi_centre>
+            <Telefono>972 331 005</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3907</ID>
+            <Nombre>Institut S'Agulla</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17005731.00</codi_centre>
+            <Telefono>972 331 460</Telefono>
+        </Centro>
+        <Centro>
+            <ID>3918</ID>
+            <Nombre>Llar d'infants Ca la Guidó</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17005868.00</codi_centre>
+            <Telefono>972 351 051</Telefono>
+        </Centro>
+        <Centro>
+            <ID>4004</ID>
+            <Nombre>CFA Es Piteus</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17007129.00</codi_centre>
+            <Telefono>972 350 918</Telefono>
+        </Centro>
+        <Centro>
+            <ID>4031</ID>
+            <Nombre>Escola Pinya de Rosa</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17007828.00</codi_centre>
+            <Telefono>972 336 615</Telefono>
+        </Centro>
+        <Centro>
+            <ID>4058</ID>
+            <Nombre>EOI de Blanes</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17008122.00</codi_centre>
+            <Telefono>972 331 345</Telefono>
+        </Centro>
+        <Centro>
+            <ID>4071</ID>
+            <Nombre>Escola Sa Forcanera</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17008274.00</codi_centre>
+            <Telefono>972 353 629</Telefono>
+        </Centro>
+        <Centro>
+            <ID>4098</ID>
+            <Nombre>Llar d'infants La Plantera 2</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17008584.00</codi_centre>
+            <Telefono>972 335 686</Telefono>
+        </Centro>
+        <Centro>
+            <ID>4135</ID>
+            <Nombre>Llar d'infants Can Borell</Nombre>
+            <Comarca>Selva</Comarca>
+            <codi_centre>17009102.00</codi_centre>
+        </Centro>
+    </Publicos>
+</Centros_Educativos>

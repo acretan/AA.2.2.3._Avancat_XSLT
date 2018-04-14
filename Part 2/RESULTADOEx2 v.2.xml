@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Teams>
+    <Team>
+        <Name>Astralis</Name>
+        <Members>
+            <Coach>zonic</Coach>
+        </Members>
+    </Team>
+    <Team>
+        <Name>BIG</Name>
+        <Members>
+            <Coach>kakafú</Coach>
+        </Members>
+    </Team>
+    <Team>
+        <Name>Fnatic</Name>
+        <Members>
+            <Coach>Jumpy</Coach>
+        </Members>
+    </Team>
+    <Team>
+        <Name>Gambit Esports</Name>
+        <Members>
+            <Coach>Andi</Coach>
+        </Members>
+    </Team>
+    <Team>
+        <Name>North</Name>
+        <Members>
+            <Coach>Jumpy</Coach>
+        </Members>
+    </Team>
+    <Team>
+        <Name>SK Gaming</Name>
+        <Members>
+            <Coach>dead</Coach>
+        </Members>
+    </Team>
+    <Team>
+        <Name>Virtus.pro</Name>
+        <Members>
+            <Coach>kuben</Coach>
+        </Members>
+    </Team>
+</Teams>
